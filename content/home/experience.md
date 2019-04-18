@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
+  * Developement of novel course framework integrating technical understanding of reinforcement learning algorithms with applied aspects of guiding autonomous decision-making.
   * Modelling
   * Deploying
   """
