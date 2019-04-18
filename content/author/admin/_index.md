@@ -25,9 +25,7 @@ email = ""
 interests = [
   "Technology Policy and Strategy",
   "Peacebuilding in Asymmetric Conflicts",
-  "Collaborative Autonomy"
-  "Adaptive Education"
-]
+  "Collaborative Autonomy"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
