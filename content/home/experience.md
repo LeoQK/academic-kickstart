@@ -33,7 +33,9 @@ date_format = "Jan 2006"
   location = "Washington, D.C."
   date_start = "2018-09-01"
   date_end = ""
-  description = """Conducting research on hybrid conflict resolution mechanisms for Professor Sinisa Vukovic."""
+  description = """
+  Conducting research on hybrid conflict resolution mechanisms for Professor Sinisa Vukovic.
+  """
   
 [[experience]]
   title = "Research Assistant"
@@ -42,7 +44,9 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2018-08-01"
   date_end = "2019-03-01"
-  description = """Performed a range of natural language processing tasks (topic modeling, linguistic style matching) in Python for Professor Brian Gunia."""
+  description = """
+  Performed a range of natural language processing tasks (topic modeling, linguistic style matching) in Python for Professor Brian Gunia.
+  """
   
   [[experience]]
   title = "Co-Founder"
@@ -51,7 +55,9 @@ date_format = "Jan 2006"
   location = "Washington, D.C."
   date_start = "2018-02-01"
   date_end = ""
-  description = """Building student-to-student education, focused on technology and global policy."""
+  description = """
+  Building student-to-student education, focused on technology and global policy.
+  """
   
   [[experience]]
   title = "Freelance Researcher"
@@ -60,7 +66,9 @@ date_format = "Jan 2006"
   location = "San Francisco, CA"
   date_start = "2018-06-01"
   date_end = "2018-08-01"
-  description = """Conduct research on contextual dynamics of conversations to optimize chatbot performance."""
+  description = """
+  Conduct research on contextual dynamics of conversations to optimize chatbot performance.
+  """
   
   [[experience]]
   title = "Quirin Privatbank"
@@ -69,7 +77,9 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2017-01-01"
   date_end = "2017-03-01"
-  description = """Incorporate narrative concepts into the bank's sales strategy to enhance client engagement."""
+  description = """
+  Incorporate narrative concepts into the bank's sales strategy to enhance client engagement.
+  """
   
   [[experience]]
   title = "Munich Kammerspiele"
@@ -78,6 +88,8 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2015-04-01"
   date_end = "2015-12-01"
-  description = """Play a lead role in a German classic in one of the country's top theaters."""
+  description = """
+  Play a lead role in a German classic in one of the country's top theaters.
+  """
 
 +++
