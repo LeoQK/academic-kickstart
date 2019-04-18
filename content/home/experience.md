@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2019-02-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Developement of novel course framework integrating technical understanding of reinforcement learning algorithms with applied aspects of guiding autonomous decision-making.
-  * Teaching six sessions and writing lecture notes, exercises and additional course material
-  * Securing funding for the course through grant from Johns Hopkins Technology Ventures and promoting the course to university management
-  """
+  description = """Developing of novel course framework integrating technical understanding of reinforcement learning algorithms with applied aspects of guiding autonomous decision-making."""
 
 [[experience]]
   title = "Research Assistant"
@@ -39,13 +33,7 @@ date_format = "Jan 2006"
   location = "Washington, D.C."
   date_start = "2018-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Conducting research on hybrid conflict resolution mechanisms for Professor Sinisa Vukovic.
-  * Contributing research on situated learning to forthcoming publication in Group Decision and Negotiation.
-  * Build game theoretical models of conflict resolution in Python.
-  """
+  description = """Conducting research on hybrid conflict resolution mechanisms for Professor Sinisa Vukovic."""
   
 [[experience]]
   title = "Research Assistant"
@@ -54,7 +42,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2018-08-01"
   date_end = "2019-03-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Performed a range of natural language processing tasks (topic modeling, linguistic style matching) in Python for Professor Brian Gunia."""
   
   [[experience]]
   title = "Co-Founder"
@@ -63,6 +51,33 @@ date_format = "Jan 2006"
   location = "Washington, D.C."
   date_start = "2018-02-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Building student-to-student education, focused on technology and global policy."""
+  
+  [[experience]]
+  title = "Freelance Researcher"
+  company = ""
+  company_url = ""
+  location = "San Francisco, CA"
+  date_start = "2018-06-01"
+  date_end = "2018-08-01"
+  description = """Conduct research on contextual dynamics of conversations to optimize chatbot performance."""
+  
+  [[experience]]
+  title = "Quirin Privatbank"
+  company = ""
+  company_url = ""
+  location = "Munich"
+  date_start = "2017-01-01"
+  date_end = "2017-03-01"
+  description = """Incorporate narrative concepts into the bank's sales strategy to enhance client engagement."""
+  
+  [[experience]]
+  title = "Munich Kammerspiele"
+  company = ""
+  company_url = ""
+  location = "Munich"
+  date_start = "2015-04-01"
+  date_end = "2015-12-01"
+  description = """Play a lead role in a German classic in one of the country's top theaters."""
 
 +++
