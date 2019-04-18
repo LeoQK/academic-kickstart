@@ -47,7 +47,7 @@ url_project = ""
 url_slides = "pdf/IACM_2018_LK_02"
 url_video = ""
 url_poster = ""
-url_source = "https://iafcm.org/2018/modules/request.php?module=oc_program&action=summary.php&id=94/"
+url_source = "https://iafcm.org/2018/modules/request.php?module=oc_program&action=summary.php&id=94"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
