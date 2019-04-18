@@ -82,6 +82,9 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student in Conflict Management and Economics at the Johns Hopkins University School of Advanced International Studies (SAIS). I am interested in technology's potential to advance how humans learn, cooperate and adapt. To supply skills needed to leverage this potential, I started a student-to-student education platform, SAIS S2S Technology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+At SAIS, I also developed and co-teach a short course, Computational Applications to Policy and Strategy (CAPS), which explores the fictional role and skill set of a Forward Deployed Policy Engineer. I am grateful that CAPS is mentored by former Under Secretary of State for Civilian Security, Democracy and Human Rights, Sarah Sewall. In addition, I work as a research assistant for Professor Sinisa Vukovic at SAIS and Professor Brian Gunia at Johns Hopkins. Previously, I studied philosophy of language in Germany. For a while, I worked as an actor in German theater.
+
+After graduating from SAIS in May 2019, I plan to continue working on projects that combine technology and global policy and promote an open and stable world. If you're interested in talking about technology or conflict management, feel free to reach out!
+
