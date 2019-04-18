@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Developement of novel course framework integrating technical understanding of reinforcement learning algorithms with applied aspects of guiding autonomous decision-making.
-  * Modelling
-  * Deploying
+  * Teaching six sessions and writing lecture notes, exercises and additional course material
+  * Securing funding for the course through grant from Johns Hopkins Technology Ventures and promoting the course to university management
   """
 
 [[experience]]
@@ -39,7 +39,13 @@ date_format = "Jan 2006"
   location = "Washington, D.C."
   date_start = "2018-09-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  Responsibilities include:
+  
+  * Conducting research on hybrid conflict resolution mechanisms for Professor Sinisa Vukovic.
+  * Contributing research on situated learning to forthcoming publication in Group Decision and Negotiation.
+  * Build game theoretical models of conflict resolution in Python.
+  """
   
 [[experience]]
   title = "Research Assistant"
