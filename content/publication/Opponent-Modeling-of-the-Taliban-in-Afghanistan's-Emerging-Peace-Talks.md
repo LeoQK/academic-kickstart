@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Opponent Modeling of the Taliban in Afghanistans Emerging Peace Talks"
+url_pdf = "pdf/Opponent Modeling of the Taliban in Afghanistans Emerging Peace Talks.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
