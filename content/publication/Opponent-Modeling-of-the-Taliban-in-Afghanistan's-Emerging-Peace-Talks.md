@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Opponent Modeling of the Taliban in Afghanistan's Emerging Peace Talks"
 
 # Date first published.
 date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["L Klenner"]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,12 @@ authors = ["First author's name", "Second author's name"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "Full presentation at the *International Association for Conflict Management* conference 2019."
+publication_short = "In *IACM* 2019"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = ""
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/Opponent Modeling of the Taliban in Afghanistans Emerging Peace Talks"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
