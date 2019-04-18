@@ -55,7 +55,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "lklenne1@jhu.edu".
+  link = "lklenne1@jhu.edu"  # For a direct email link, use "lklenne1@jhu.edu".
 
 [[social]]
   icon = "twitter"
