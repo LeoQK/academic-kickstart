@@ -16,10 +16,10 @@ role = "Research Assistant - Instructor - Co-Founder"
 organizations = [ { name = "Johns Hopkins University", url = "https://www.sais-jhu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests focus on the intersection of technology and conflict management."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "lklenne1@jhu.edu"
 
 # List (academic) interests or hobbies
 interests = [
@@ -33,19 +33,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Advanced Diploma in IT Systems Analysis and Design"
+  institution = "University of Oxford"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.A. in Conflict Management and Economics"
+  institution = "Johns Hopkins University"
+  year = 2019
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.A. in Comparative Literature and Philosophy"
+  institution = "Ludwig Maximilian University of Munich"
+  year = 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -55,22 +55,17 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "lklenne1@jhu.edu".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://twitter.com/saistech"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/leoqk"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
