@@ -2,7 +2,7 @@
 title = "Opponent Modeling of the Taliban in Afghanistan's Emerging Peace Talks"
 
 # Date first published.
-date = "2013-07-01"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Leo Klenner, Accepted as a full presentation at the *International Association for Conflict Management* conference 2019"]
