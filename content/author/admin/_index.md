@@ -72,7 +72,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
 icon = "cv"
 icon_pack = "ai"
-link = "static/pdf/Leo_Klenner_Resume_April_2019.pdf"
+link = "pdf/Leo_Klenner_Resume_April_2019.pdf"
 
 +++
 
