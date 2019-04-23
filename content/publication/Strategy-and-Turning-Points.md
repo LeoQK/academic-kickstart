@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Strategy-Turning-Points-Klenner.pdf"
+url_pdf = "pdf/Strategy-and-Turning-Points01.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
