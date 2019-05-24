@@ -71,8 +71,8 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Quirin Privatbank"
-  company = ""
+  title = "Private Wealth Management Intern"
+  company = "Quirin Privatbank"
   company_url = ""
   location = "Munich"
   date_start = "2017-01-01"
@@ -82,8 +82,8 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Munich Kammerspiele"
-  company = ""
+  title = "Actor"
+  company = "Munich Kammerspiele"
   company_url = ""
   location = "Munich"
   date_start = "2015-04-01"
