@@ -1,0 +1,200 @@
+%-------------------------
+% Resume in Latex
+% Author : Sourabh Bajaj
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{hyperref}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\centering
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-8pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{leoklenner.com}{\Large Leonard Klenner}} & \href{mailto:lklenne1@jhu.edu}{lklenne1@jhu.edu}\\
+  \href{leoklenner.com}{leoklenner.com} & +49-176-324-20070 \\
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Oxford} {Online}
+      {Advanced Diploma in IT Systems Analysis and Design}{Oct 2018 -- Oct 2019}
+    \resumeSubheading
+      {Johns Hopkins University School of Advanced International Studies (SAIS)}{Washington, DC}
+      {Master of Arts in Conflict Management and Economics;  GPA: 3.58}{Sep 2017 -- May 2019}
+    \resumeSubheading
+      {Ludwig Maximilian University Munich}{Munich, Germany}
+      {Bachelor of Arts in Comparative Literature and Philosophy;  GPA: 4.00 (1.24)}{Sep 2013 -- Nov 2016}
+  \resumeSubHeadingListEnd
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Johns Hopkins SAIS}{Washington, DC}
+      {Short Course Instructor}{Dec 2018 -- Present}
+       \resumeItemListStart
+        \resumeItem{Course Development}
+          {Co-developed Computational Applications to Policy and Strategy (CAPS), a six-session course that emerges early-career policymakers in the policy and strategy considerations of key reinforcement learning algorithms and approaches. CAPS is the first student-taught short course to become accredited at SAIS.}
+        \resumeItem{Teaching}
+          {Led a team of two co-teachers, wrote lecture notes and built the CAPS course website on GitHub.}
+        \resumeItem{Executive Outreach}
+          {Secured mentorship for CAPS from former Undersecretary of State Sarah Sewall. Presented CAPS to former senior personnel of the Department of State, the policy director of OpenAI and SAIS's leadership.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Johns Hopkins University}{Baltimore, MD}
+      {Research Assistant to Profs. Sinisa Vukovic and Brian Gunia}{Aug 2018 -- May 2019}
+      \resumeItemListStart
+        \resumeItem{Policy Analysis}
+          {For Professor Vukovic, analyzed hybrid conflict resolution mechanisms and contributed research on situational learning in conflict to paper forthcoming in Group Decision and Negotiation.}
+        \resumeItem{Computational Modeling}
+          {Built a game-theoretical model of utility transfer to simulate concession making strategies in conflict and implemented the model in Python.}
+        \resumeItem{Natural Language Processing}
+          {For Professor Gunia, processed a mid-sized interview data set and used Python's \textit{sklearn} and \textit{nltk} packages for topic modeling, linguistic style matching and other NLP analysis.}
+      \resumeItemListEnd
+
+
+    \resumeSubheading
+      {Saiss2stechnology.com}{Washington, DC}
+      {Co-Founder}{Feb 2018 -- May 2019}
+      \resumeItemListStart
+        \resumeItem{Product Management}
+          {Developed a platform for student-to-student education focused on technology policy. Built relevant knowledge-sharing pipelines on campus and led two semester-long workshops with 40+ enrolled students.}
+        \resumeItem{Team Leadership}
+          {Grew the team from one to eight. Secured funding from Johns Hopkins Technology Ventures.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Quirin Privatbank}{Munich, Germany}
+      {Private Wealth Management Intern}{Jan 2017 -- Mar 2017}
+      \resumeItemListStart
+        \resumeItem{Portfolio Analysis}
+          {Evaluated ETFs for a portfolio with EUR 350m AUM, compiled research briefs on passive strategies, and performed relevant due diligence tasks directly supporting client acquisition.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Assured Autonomy}{\textit{AI Initiative associated with the Johns Hopkins Applied Physics Lab}}
+      {}{\hfill \textit{Summer 2019}}
+      \resumeItemListStart
+        \resumeItem{Data Analysis}
+          {Mined and analyzed data from a RTS game in Python supporting an AI safety research project.}
+     \resumeItemListEnd
+    \resumeSubItem{StarCraft II Bots}{\textit{Real-time strategy game used in commercial AI research}}
+      {}{\hfill \textit{Summer 2018}}
+      \resumeItemListStart
+        \resumeItem{Programming}
+          {Built two rule-based AI bots in Python that defeat StarCraft II's in-game AI on `elite'.}
+     \resumeItemListEnd      
+    \resumeSubItem{Munich Kammerspiele Theater}{\textit{Leading German theater}}
+      {}{\hfill \textit{2015}}
+      \resumeItemListStart
+        \resumeItem{Acting}
+          {Contracted to play a lead role in a German classic, reached a cumulative audience of 4500+.}
+     \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------Peer-reviewed Conference Presentations-----------------
+\section{Peer-Reviewed Conference Presentations}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Opponent Modeling of the Taliban}
+      {Research paper presented \href{https://iafcm.org/2019/modules/request.php?module=oc_program&action=summary.php&id=270}{[at IACM 2019]}. \href{https://leoklenner.com/pdf/Opponent-Modeling.pdf}{[Draft]}.}
+    \resumeSubItem{Strategy and Turning Points}
+      {Research paper presented \href{https://iafcm.org/2018/modules/request.php?module=oc_program&action=summary.php&id=94}{[at IACM 2018]}. \href{https://leoklenner.com/pdf/Strategy-and-Turning-Points01.pdf}{[Draft]} and \href{https://leoklenner.com/pdf/IACM_2018_LK_02.pdf}{[slides]}.}
+  \resumeSubHeadingListEnd
+ 
+%-----------Skills-----------------
+\section{Skills}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Languages}
+      {English (fluent), German (native)}
+    \resumeSubItem{Technical}
+      {Python (beginner; \textit{numpy, python-sc2, sc2-reader, s2protocol}), Tableau (beginner), Excel (proficient)}
+    \resumeSubItem{Interests}
+      {Future of work and retraining, AI policy, Organizational analysis, Games and education}
+  \resumeSubHeadingListEnd
+%
+%--------PROGRAMMING SKILLS------------
+%\section{Programming Skills}
+%  \resumeSubHeadingListStart
+%    \item{
+%      \textbf{Languages}{: Scala, Python, Javascript, C++, SQL, Java}
+%      \hfill
+%      \textbf{Technologies}{: AWS, Play, React, Kafka, GCE}
+%    }
+%  \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}
