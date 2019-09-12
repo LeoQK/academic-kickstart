@@ -44,7 +44,7 @@ algorithms and approaches. Successfully presented CAPS to leadership from the pu
   company_url = ""
   location = "Washington, D.C."
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2019-05-01"
   description = """
   Analyzed the emergence of hybrid conflict resolution mechanisms and contributed research ongame theory and situational learning in conflict to papers forthcoming in Group Decision and Negotiation.
   """
@@ -66,7 +66,7 @@ Researched transaction strategies in barter economies. Processed textual data on
   company_url = ""
   location = "Washington, D.C."
   date_start = "2018-02-01"
-  date_end = ""
+  date_end = "2019-05-01"
   description = """
   Building student-to-student education, focused on technology and global policy.
   """
@@ -97,9 +97,9 @@ Researched transaction strategies in barter economies. Processed textual data on
   title = "Second Assistant Director Trainee"
   company = "Studio Hamburg"
   company_url = ""
-  location = "Munich"
-  date_start = "2015-04-01"
-  date_end = "2015-12-01"
+  location = "Hmaburg"
+  date_start = "2014-04-01"
+  date_end = "2012-12-01"
   description = """
   Worked on multiple film productions, coordinating and blocking up to 300 extras per day, and leading second-unit shoots in Denmark.
   """
