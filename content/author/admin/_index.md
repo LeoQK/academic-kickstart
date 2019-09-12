@@ -78,7 +78,7 @@ link = "pdf/resume.pdf"
 
 I’m a Research Fellow in the Conflict Management department at the [Johns Hopkins University School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). I want to understand how we can best educate generalists for an era shaped by autonomous technologies. 
 
-At SAIS, I started the [Computational Applications to Policy and Strategy (CAPS)]( https://github.com/capsseminar/Course-material) short course, teaching early-career policymakers through video games like [StarCraft II]( https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md) and the fictional role of a [Forward Deployed Policy Engineer](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS-Skills-Course_Syllabus.pdf) about the intersection of human and autonomous decision-making. My other research interests broadly concern organizational decision-making of non-state actors. 
+At SAIS, I started the [Computational Applications to Policy and Strategy (CAPS)]( https://github.com/capsseminar/Course-material) short course, teaching early-career policymakers through video games like [StarCraft II](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS%20syllabus_10-15-18.pdf) and the fictional role of a [Forward Deployed Policy Engineer](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS-Skills-Course_Syllabus.pdf) about the intersection of human and autonomous decision-making. My other research interests broadly concern organizational decision-making of non-state actors. 
 
 In my spare time, I enjoy learning about product management, especially in education technology. I also like running through Washington, DC and watching StarCraft esports.
 
