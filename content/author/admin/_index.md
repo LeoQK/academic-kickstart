@@ -9,22 +9,22 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Assistant - Instructor - Co-Founder"
+role = "Research Fellow - Instructor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Johns Hopkins University", url = "https://www.sais-jhu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests focus on the intersection of technology and conflict management."
+bio = "My research interests focus on the intersection of technology, education and conflict management."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "lklenne1@jhu.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Technology Policy and Strategy",
-  "Peacebuilding in Asymmetric Conflicts",
+  "Education and Technology",
+  "Games and Game Theory",
   "Collaborative Autonomy"]
 
 # Organizational groups that you belong to (for People widget)
@@ -76,9 +76,12 @@ link = "pdf/resume.pdf"
 
 +++
 
-I am a graduate student in Conflict Management and Economics at the [Johns Hopkins University School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). I am interested in technology's potential to advance how humans learn, cooperate and adapt. To supply skills needed to leverage this potential, I started a student-to-student education platform, [SAIS S2S Technology](https://saiss2stechnology.com/).
+I’m a Research Fellow in the Conflict Management department at the [Johns Hopkins University School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). I want to understand how we can best educate generalists for an era shaped by autonomous technologies. 
 
-At SAIS, I also developed and co-teach a short course, [Computational Applications to Policy and Strategy (CAPS)](https://github.com/capsseminar), which explores the fictional role and skill set of a Forward Deployed Policy Engineer. I am grateful that CAPS is mentored by former Under Secretary of State for Civilian Security, Democracy and Human Rights, [Sarah Sewall](https://kissinger.sais-jhu.edu/sewall.html). In addition, I work as a research assistant for Professor [Sinisa Vukovic](https://www.sais-jhu.edu/sinisa-vukovic) at SAIS and Professor [Brian Gunia](https://carey.jhu.edu/faculty-research/faculty-directory/brian-gunia-phd/) at Johns Hopkins. Previously, I studied philosophy of language at [LMU Munich](https://www.philosophie.uni-muenchen.de/index.html). For a while, I worked as an [actor](https://www.muenchner-kammerspiele.de/inszenierung/mutter-courage-und-ihre-kinder) in German theater.
+At SAIS, I started the [Computational Applications to Policy and Strategy (CAPS)]( https://github.com/capsseminar/Course-material) short course, teaching early-career policymakers through video games like [StarCraft II]( https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md) and the fictional role of a Forward Deployed Policy Engineer about the intersection of human and autonomous decision-making. My other research interests broadly concern organizational decision-making of non-state actors. 
 
-After graduating from SAIS in May 2019, I plan to continue working on projects that combine technology and global policy and promote an open and stable world.
+In my spare time, I enjoy learning about product management, especially in education technology. I also like running through Washington, DC and watching StarCraft esports.
+
+I graduated with an M.A. in economics and conflict management from SAIS in May 2019. Before that, I studied comparative literature and philosophy at LMU Munich. 
+
 
