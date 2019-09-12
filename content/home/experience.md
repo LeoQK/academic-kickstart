@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Short Course Instructor"
   company = "Johns Hopkins SAIS"
@@ -24,28 +25,39 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2019-02-01"
   date_end = ""
-  description = """Developing of novel course framework integrating technical understanding of reinforcement learning algorithms with applied aspects of guiding autonomous decision-making."""
+  description = """Conduct research into how we can best approximate the organizational structure on non-state actors."""
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Short Course Instructor"
+  company = "Johns Hopkins SAIS"
+  company_url = ""
+  location = "Washington, DC"
+  date_start = "2019-02-01"
+  date_end = ""
+  description = """Co-developed Computational Applications to Policy and Strategy (CAPS), a first-of-a-kind
+course that emerges early-career policymakers in the policy and strategy considerations of key reinforcement learning
+algorithms and approaches. Successfully presented CAPS to leadership from the public sector and OpenAI."""
+
+[[experience]]
+  title = "Research Assistant to Professor Sinisa Vukovic"
   company = "Johns Hopkins SAIS"
   company_url = ""
   location = "Washington, D.C."
   date_start = "2018-09-01"
   date_end = ""
   description = """
-  Conducting research on hybrid conflict resolution mechanisms for Professor Sinisa Vukovic.
+  Analyzed the emergence of hybrid conflict resolution mechanisms and contributed research ongame theory and situational learning in conflict to papers forthcoming in Group Decision and Negotiation.
   """
   
 [[experience]]
-  title = "Research Assistant"
+  title = "Research Assistant to Professor Brian Gunia"
   company = "Johns Hopkins University"
   company_url = ""
   location = "California"
   date_start = "2018-08-01"
   date_end = "2019-03-01"
   description = """
-  Performed a range of natural language processing tasks (topic modeling, linguistic style matching) in Python for Professor Brian Gunia.
+Researched transaction strategies in barter economies. Processed textual data on barter transactions using Python's sklearn and nltk packages for topic modeling and linguistic style matching.
   """
   
   [[experience]]
@@ -60,17 +72,6 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Freelance Researcher"
-  company = ""
-  company_url = ""
-  location = "San Francisco, CA"
-  date_start = "2018-06-01"
-  date_end = "2018-08-01"
-  description = """
-  Conduct research on contextual dynamics of conversations to optimize chatbot performance.
-  """
-  
-  [[experience]]
   title = "Private Wealth Management Intern"
   company = "Quirin Privatbank"
   company_url = ""
@@ -78,7 +79,7 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2017-03-01"
   description = """
-  Incorporate narrative concepts into the bank's sales strategy to enhance client engagement.
+  Evaluated ETFs for a portfolio with EUR 350m AUM and compiled research briefs on smart beta strategies. Reported to CEO on identifying novel ways for client acquisition using personalized narratives.
   """
   
   [[experience]]
@@ -90,6 +91,17 @@ date_format = "Jan 2006"
   date_end = "2015-12-01"
   description = """
   Play a lead role in a German classic in one of the country's top theaters.
+  """
+
+  [[experience]]
+  title = "Second Assistant Director Trainee"
+  company = "Studio Hamburg"
+  company_url = ""
+  location = "Munich"
+  date_start = "2015-04-01"
+  date_end = "2015-12-01"
+  description = """
+  Worked on multiple film productions, coordinating and blocking up to 300 extras per day, and leading second-unit shoots in Denmark.
   """
 
 +++
