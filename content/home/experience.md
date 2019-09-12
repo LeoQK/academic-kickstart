@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2019-02-01"
   date_end = ""
-  description = """Conduct research into how we can best approximate the organizational structure on non-state actors."""
+  description = """Conduct research into how we can best approximate the organizational structures of non-state actors."""
 
 [[experience]]
   title = "Short Course Developer and Instructor"
