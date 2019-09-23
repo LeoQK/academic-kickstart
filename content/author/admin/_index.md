@@ -66,6 +66,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/leoqk"
+  
+ [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/leo-klenner/"
 
 # Link to a PDF of your resume/CV from the About widget.
 
