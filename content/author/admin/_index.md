@@ -58,11 +58,6 @@ user_groups = ["Researchers", "Visitors"]
   link = "mailto:lklenne1@jhu.edu"  # For a direct email link, use "lklenne1@jhu.edu".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/saistech"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/leoqk"
