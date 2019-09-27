@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company = "Johns Hopkins SAIS"
   company_url = ""
   location = "Washington, DC"
-  date_start = "2019-02-01"
+  date_start = "2018-12-01"
   date_end = ""
   description = """Co-developed Computational Applications to Policy and Strategy (CAPS), a first-of-a-kind
 course that emerges early-career policymakers in the policy and strategy considerations of key reinforcement learning
