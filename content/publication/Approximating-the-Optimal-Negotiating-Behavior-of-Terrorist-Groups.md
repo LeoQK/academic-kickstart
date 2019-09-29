@@ -1,5 +1,5 @@
 +++
-title = "Approximating the Optimal Negotiating Behavior of Terrorists"
+title = "Approximating the Optimal Negotiating Behavior of Terrorist Groups"
 
 # Date first published.
 date = "2019-01-01"
