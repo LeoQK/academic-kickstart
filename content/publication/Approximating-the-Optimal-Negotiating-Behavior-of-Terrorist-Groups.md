@@ -5,7 +5,7 @@ title = "Approximating the Optimal Negotiating Behavior of Terrorist Groups"
 date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leo Klenner, Sinisa Vukovic, Accepted as a full presentation at the *nternational Studies Association* conference 2020"]
+authors = ["Leo Klenner, Sinisa Vukovic, Accepted as a full presentation at the *International Studies Association* conference 2020"]
 
 # Publication type.
 # Legend:
