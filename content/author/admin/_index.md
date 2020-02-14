@@ -76,7 +76,7 @@ link = "pdf/resume.pdf"
 
 +++
 
-I’m a Research Fellow in the Conflict Management department at the Johns Hopkins University School of Advanced International Studies (SAIS), where I work on the organizational adaptation of non-state actors. You can find some of my research below.
+I’m a Research Fellow in the Conflict Management department at [Johns Hopkins University's School of Advanced International Studies (SAIS)](https://www.jhu.edu/), where I work on the organizational adaptation of non-state actors. You can find some of my research below.
 
 Aside from research, I’m passionate about solving problems at the intersection of technology and complex environments, whether that’s through education or business development or operations.
 
