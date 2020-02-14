@@ -78,7 +78,7 @@ link = "pdf/resume.pdf"
 
 I’m a Research Fellow in the Conflict Management department at [Johns Hopkins University's School of Advanced International Studies (SAIS)](https://www.jhu.edu/), where I work on the organizational adaptation of non-state actors. 
 
-One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS]((https://capsseminar.github.io/)), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
+One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS](https://capsseminar.github.io/), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
 
 While a student at SAIS, I spent most of my time building a [peer-to-peer education platform](https://saiss2stechnology.com/) to help students access each other’s knowledge on topics not covered in the school’s official curriculum. We focused mainly on topics on technology policy.
 
