@@ -76,12 +76,16 @@ link = "pdf/resume.pdf"
 
 +++
 
-I’m a Research Fellow in the Conflict Management department at the [Johns Hopkins University School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). Coming from a diverse professional background, I am interested in workforce innovation and professional education. I am passionate about solving problems at the intersection of technology and complex environments. I have a specific interest in understanding how we can best educate generalists for an era shaped by autonomous technologies. 
+I’m a Research Fellow in the Conflict Management department at the Johns Hopkins University School of Advanced International Studies (SAIS), where I work on the organizational adaptation of non-state actors. You can find some of my research below.
 
-At SAIS, I started the [Computational Applications to Policy and Strategy (CAPS)](https://capsseminar.github.io/) short course, teaching early-career policymakers through video games like [StarCraft II](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS%20syllabus_10-15-18.pdf) and the fictional role of a [Forward Deployed Policy Engineer](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS-Skills-Course_Syllabus.pdf) about the intersection of human and autonomous decision-making. My other research interests broadly concern organizational decision-making of non-state actors. 
+Aside from research, I’m passionate about solving problems at the intersection of technology and complex environments, whether that’s through education or business development or operations.
 
-In my spare time, I enjoy learning about product management, especially in education technology. I also like running through Washington, DC and watching StarCraft esports.
+One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS]((https://capsseminar.github.io/)), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
 
-I graduated with an M.A. in economics and conflict management from SAIS in May 2019. Before that, I studied comparative literature and philosophy at LMU Munich. 
+While a student at SAIS, I spent most of my time building a [peer-to-peer education](https://saiss2stechnology.com/) platform to help students access each other’s knowledge on topics not covered in the school’s official curriculum. We focused mainly on topics on technology policy.
+
+I graduated from SAIS in May 2019 with an M.A. in conflict management and economics. While completing my researcher position, I’m currently looking for new opportunities in business development, operations, or product that allow me to combine my strong problem-solving skills with my deep passion for technology.
+
+In my spare time, I enjoy running and discussing how games can change how we learn and make better decisions. I'm originally from Germany, where I studied philosophy and, for a while, pursued a career in entertainment. 
 
 
