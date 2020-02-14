@@ -80,7 +80,7 @@ I’m a Research Fellow in the Conflict Management department at [Johns Hopkins 
 
 One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS]((https://capsseminar.github.io/)), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
 
-While a student at SAIS, I spent most of my time building a [peer-to-peer education](https://saiss2stechnology.com/) platform to help students access each other’s knowledge on topics not covered in the school’s official curriculum. We focused mainly on topics on technology policy.
+While a student at SAIS, I spent most of my time building a local [peer-to-peer education platform](https://saiss2stechnology.com/) to help students access each other’s knowledge on topics not covered in the school’s official curriculum. We focused mainly on topics on technology policy.
 
 I graduated from SAIS in May 2019 with an M.A. in conflict management and economics. While completing my researcher position, I’m currently looking for new opportunities in business development, operations, or product that allow me to combine my strong problem-solving skills with my deep passion for technology.
 
