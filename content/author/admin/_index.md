@@ -23,9 +23,9 @@ email = "lklenne1@jhu.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Education and Technology",
-  "Games and Game Theory",
-  "Collaborative Autonomy"]
+  "Technology and Human Decision-Making",
+  "Organizational Adaptation",
+  "Games and Game Theory"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,11 +76,13 @@ link = "pdf/resume.pdf"
 
 +++
 
-I’m a Research Fellow in the Conflict Management department at [Johns Hopkins University's School of Advanced International Studies (SAIS)](https://www.jhu.edu/), where I work on the organizational adaptation of non-state actors. 
+I’m a Research Fellow in the Conflict Management department at [Johns Hopkins University's School of Advanced International Studies (SAIS)](https://www.jhu.edu/), where I work on the organizational adaptation of non-state actors.
+
+I graduated from SAIS in May 2019 with an M.A. in conflict management and economics. While completing my researcher position, I’m currently looking for new opportunities in business development, strategy, or operations that allow me to combine my strong problem-solving skills with my deep passion for technology.
 
 One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS](https://capsseminar.github.io/), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
 
 While a student at SAIS, I spent most of my time building a [peer-to-peer education platform](https://saiss2stechnology.com/) to help students access each other’s knowledge on topics not covered in the school’s official curriculum. We focused mainly on topics on technology policy.
 
-I graduated from SAIS in May 2019 with an M.A. in conflict management and economics. While completing my researcher position, I’m currently looking for new opportunities in business development, operations, or product that allow me to combine my strong problem-solving skills with my deep passion for technology.
+In my spare time, I enjoy writing, meeting people, and improving my running skills.
 
