@@ -5,7 +5,7 @@ title = "Opponent Modeling of the Taliban in Afghanistan's Emerging Peace Talks"
 date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leo Klenner, Accepted as a full presentation at the *International Association for Conflict Management* conference 2019"]
+authors = ["Leo Klenner, Paper accepted to the *International Association for Conflict Management* conference 2019"]
 
 # Publication type.
 # Legend:
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Opponent-Modeling.pdf"
+url_pdf = "pdf/Abstract2.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
