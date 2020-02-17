@@ -16,11 +16,11 @@ authors = ["Leo Klenner, M.A. Thesis submitted at Johns Hopkins SAIS, Awared the
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Adaptation for Optimal Learning in Conflict"
+publication_short = "Adaptation for Optimal Learning in Conflict"
 
 # Abstract and optional shortened version.
 abstract = ""
