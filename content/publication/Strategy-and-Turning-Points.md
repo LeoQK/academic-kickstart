@@ -39,15 +39,15 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Strategy-and-Turning-Points01.pdf"
+url_abstract = "pdf/Abstract1.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "pdf/IACM_2018_LK_02.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://iafcm.org/2018/modules/request.php?module=oc_program&action=summary.php&id=94"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
