@@ -5,7 +5,7 @@ title = "Strategy and Turning Points"
 date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leo Klenner, Full oral presentation at the *International Association for Conflict Management* conference 2018"]
+authors = ["Leo Klenner, Paper accepted to the *International Association for Conflict Management* conference 2018"]
 
 # Publication type.
 # Legend:
