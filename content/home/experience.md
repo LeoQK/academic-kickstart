@@ -43,6 +43,14 @@ date_format = "Jan 2006"
   date_end = "2019-05-01"
   
 [[experience]]
+  title = "Co-Founder"
+  company = "SAIS S2S Technology"
+  company_url = ""
+  location = "Washington, D.C."
+  date_start = "2018-02-01"
+  date_end = "2019-05-01"
+  
+[[experience]]
   title = "Research Assistant to Professor Brian Gunia"
   company = "Johns Hopkins University"
   company_url = ""
@@ -50,13 +58,6 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2019-03-01"
   
-  [[experience]]
-  title = "Co-Founder"
-  company = "SAIS S2S Technology"
-  company_url = ""
-  location = "Washington, D.C."
-  date_start = "2018-02-01"
-  date_end = "2019-05-01"
   
   [[experience]]
   title = "Private Wealth Management Intern"
