@@ -58,8 +58,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2019-03-01"
   
-  
-  [[experience]]
+[[experience]]
   title = "Private Wealth Management Intern"
   company = "Quirin Privatbank"
   company_url = ""
@@ -67,7 +66,7 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2017-03-01"
   
-  [[experience]]
+[[experience]]
   title = "Actor"
   company = "Munich Kammerspiele"
   company_url = ""
@@ -75,7 +74,7 @@ date_format = "Jan 2006"
   date_start = "2015-04-01"
   date_end = "2015-12-01"
 
-  [[experience]]
+[[experience]]
   title = "Second Assistant Director Trainee"
   company = "Studio Hamburg"
   company_url = ""
