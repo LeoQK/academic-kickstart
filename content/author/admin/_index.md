@@ -82,7 +82,7 @@ I graduated from SAIS in May 2019 with an M.A. in conflict management and econom
 
 One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS](https://capsseminar.github.io/), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
 
-While a student at SAIS, I spent most of my time building a [peer-to-peer education platform](https://saiss2stechnology.com/) to help students access each other’s knowledge on topics not covered in the school’s official curriculum. We focused mainly on topics on technology policy.
+While a student at SAIS, I spent most of my time building a [peer-to-peer education platform](https://saiss2stechnology.com/) to help students access each other’s knowledge on topics not covered in the school’s official curriculum. We focused mainly on topics in technology policy.
 
 In my spare time, I enjoy writing, meeting people, and improving my running skills.
 
