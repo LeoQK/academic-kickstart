@@ -107,7 +107,7 @@ Two important points that I think matter concerning a shift from quantitative mo
 
 To refine this skill set and make it accessible to students, we need a new education for future strategists. If you’re building this education or are interested in contributing to relevant courseware, please reach out to me!
 
-![Performance curves for random, scripted and DQN bots on the CollectMineralShards mini-game](/post/teaching-decision-making-in-simulations-at-johns-hopkins/class.png)
+![Performance curves for random, scripted and DQN bots on the CollectMineralShards mini-game](/post/teaching-decision-making-in-simulations-at-johns-hopkins/class.img)
 
 
 ### Moving forward
