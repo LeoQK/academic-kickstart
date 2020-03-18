@@ -40,7 +40,7 @@ So, let’s dive in.
 
 CAPS was developed by a great team. I originally started the first version of the workshop in March 2018. *Henry Fung* joined the second version as a co-teacher. Later on, *Cory Combs* joined us and together we developed and taught the third and fourth versions of the course. We finished teaching CAPS in December 2019. Along the way, we received incredible support from *Sarah Sewall* of InQTel, *Jack Clark* of OpenAI, and *Ashley Llorens* of APL. At SAIS, *Jean-Amiel Jourdan* and *Luke Conolly* enabled CAPS to become part of the school’s professional development curriculum, which was a huge milestone for us. Most importantly, thanks to the 75+ students who enrolled in CAPS over two years, shared their insights and created a great course experience.
 
-[Watch a recording of the first CAPS lecture](https://www.youtube.com/watch?v=4CA4o3MEKo0)
+[Watch a recording of the first CAPS lecture on YouTube](https://www.youtube.com/watch?v=4CA4o3MEKo0)
 
 ### Teaching as decision-making under uncertainty
 CAPS started with an unconventional model of teaching.
@@ -50,7 +50,7 @@ Back in mid-2018, I had already gained some experience with this model of “tea
 
 *“CAPS explores ways in which computational methods can advance the applications of policy and strategy research. The workshop focuses on the potential of video games — and intelligent agents programmed in Python to play these games — to study strategic behavior in complex, simulated environments. The workshop uses Python to build bots that play the real-time strategy game StarCraft II. … We will enter the race by building rule-based and learning-based bots using the python-sc2 and pysc2 libraries that compete against StarCraft II’s internal AI. We will analyze our bots performance using a range of game data mining tools. Following a discussion of the intersection of AI and international relations, we will compile the code and analysis of our bot into a short project.”*
 
-<p align ="center"><img src ="https://miro.medium.com/max/675/1*79j38hTioizTksbvZhCCNA.png></p>
+![Complex agent-environment interaction as in DeepMind’s AlphaGo and SC2LE inspired CAPS](/content/post/Teaching-Decision-Making-in-Simulations-at-Johns-Hopkins/slide2.png)
 
 ### Breaking down the syllabus
 The rationale behind the syllabus was to help students become strategists who can work alongside three stakeholders:
