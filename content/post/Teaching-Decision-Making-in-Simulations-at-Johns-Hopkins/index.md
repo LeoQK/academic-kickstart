@@ -50,6 +50,8 @@ Back in mid-2018, I had already gained some experience with this model of “tea
 
 *“CAPS explores ways in which computational methods can advance the applications of policy and strategy research. The workshop focuses on the potential of video games — and intelligent agents programmed in Python to play these games — to study strategic behavior in complex, simulated environments. The workshop uses Python to build bots that play the real-time strategy game StarCraft II. … We will enter the race by building rule-based and learning-based bots using the python-sc2 and pysc2 libraries that compete against StarCraft II’s internal AI. We will analyze our bots performance using a range of game data mining tools. Following a discussion of the intersection of AI and international relations, we will compile the code and analysis of our bot into a short project.”*
 
+      <p align ="center"><img src ="https://miro.medium.com/max/675/1*79j38hTioizTksbvZhCCNA.png></p>
+
 ### Breaking down the syllabus
 The rationale behind the syllabus was to help students become strategists who can work alongside three stakeholders:
 
