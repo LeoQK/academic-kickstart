@@ -1,14 +1,24 @@
-+++
-title = "Teaching Decision Making in Simulations at Johns Hopkins"
+---
+title: 'Teaching Decision-Making in Simulations at Johns Hopkins'
+subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+summary: Create a beautifully simple website in under 10 minutes.
+authors:
+- admin
+tags:
+- Academic
+categories:
+- Demo
+date: "2016-04-20T00:00:00Z"
+lastmod: "2019-04-17T00:00:00Z"
+featured: false
+draft: false
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view = 3
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "static/img/slide.png"
-caption = "As an M.A. student at Johns Hopkins University, I created a course to help future strategists explore simulations and AI. The course focused on building and analyzing bots for the strategy game StarCraft II. The course was created with extremely limited resources but became a success. I argue that future strategists will work in a world shaped by complex real-time simulations in which AIs, rather than humans, search for optimal strategies. Thus, future strategists need a new skill set. This skill set should focus on the fuzzy analysis of the quality of a simulated world and determining how the features of a simulated world shape the search for optimal strategies inside it."
-+++
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: false
