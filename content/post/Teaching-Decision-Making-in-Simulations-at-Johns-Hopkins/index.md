@@ -93,6 +93,8 @@ We worked with StarCraft in two ways.
 
 First, we built CAPSbot, a rule-based bot with python-sc2 that played StarCraft’s full game. Second, we ran an implementation of a Deep-Q-Net in pysc2 that learned how to play StarCraft II’s mini-games, which are constrained representations of the full game for training a specific task.
 
+![Performance curves for random, scripted and DQN bots on the CollectMineralShards mini-game](/post/teaching-decision-making-in-simulations-at-johns-hopkins/featured.png)
+
 StarCraft is a great tool for making computational decision-making tangible for students from a non-technical background. The main limitations we experienced was that some students felt that the connections between the simulated world of StarCraft and scenarios they might encounter in the real world weren’t clear. This is a valid concern but it also highlights an important take-away: each simulation will retain a gap to the real world and learning how to safely bridge this gap in decision-making is a core skill for strategists.
 
 ### Why we need a new education for future strategists
@@ -104,6 +106,9 @@ Two important points that I think matter concerning a shift from quantitative mo
 **From strategies to meta-strategies:** Today, there is a lot of focus on helping professionals from a broad range of backgrounds understand how AI algorithms work. The third and fourth iteration of CAPS are examples of this. But this sidelines an important fact, that the capabilities of an algorithm or agent are conditional on the environment in which the agent operates. Thus, how algorithms work is less important than understanding how they work in relation to different environments. Even if agents like AlphaGo Zero, which are able to learn how to perform across different environments, such as Go and Chess, become able to perform across more heterogenous environments, such as Go and, say, Dark Souls, small changes in these environments will still lead an agent to find different optimal solutions. One version of the future of strategy is having AlphaGo Zero-style algorithms solve for optimal strategies across complex simulations of a broad range of real-world scenarios. Strategists then would no longer be tasked with finding optimal strategies. Instead, strategists would develop meta-strategies; they would define the decision space that an agent searches to find an optimal strategy. In other words, the next generation of strategists will build and analyze worlds, not start with a given world and think about what strategies can be found in it.
 
 To refine this skill set and make it accessible to students, we need a new education for future strategists. If you’re building this education or are interested in contributing to relevant courseware, please reach out to me!
+
+![Performance curves for random, scripted and DQN bots on the CollectMineralShards mini-game](/post/teaching-decision-making-in-simulations-at-johns-hopkins/class.png)
+
 
 ### Moving forward
 When I started this workshop, I wasn’t aware that there is almost a tradition of students teaching classes based on StarCraft, like Alan Feng’s 2009 class “Game Theory, with Applications to StarCraft” at Berkely and Natahniel Poling’s 2010 class “21st Century Skills in StarCraft” at the University of Florida. If there are others, please let me know in the comments. Somehow, this trend hasn’t really continued into the 2010s. More recently, there are great albeit more narrow online tutorials on building bots for StarCraft II.
