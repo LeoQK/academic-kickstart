@@ -81,7 +81,7 @@ link = "pdf/resume.pdf"
 
 +++
 
-I’m a former Research Fellow in the Conflict Management department at [Johns Hopkins University's School of Advanced International Studies (SAIS)](https://www.jhu.edu/), where I work on the organizational adaptation of non-state actors. I'm currently working in business development in the technology. 
+I’m a former Research Fellow in the Conflict Management department at [Johns Hopkins University's School of Advanced International Studies (SAIS)](https://www.jhu.edu/), where I worked on the organizational adaptation of non-state actors. I'm currently working in business development in the technology sector.
 
 I graduated from SAIS in May 2019 with an M.A. in conflict management and economics. One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS](https://capsseminar.github.io/), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
 
