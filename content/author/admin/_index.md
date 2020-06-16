@@ -81,13 +81,10 @@ link = "pdf/resume.pdf"
 
 +++
 
-I’m a Research Fellow in the Conflict Management department at [Johns Hopkins University's School of Advanced International Studies (SAIS)](https://www.jhu.edu/), where I work on the organizational adaptation of non-state actors.
+I’m a former Research Fellow in the Conflict Management department at [Johns Hopkins University's School of Advanced International Studies (SAIS)](https://www.jhu.edu/), where I work on the organizational adaptation of non-state actors. I'm currently working in business development in the technology. 
 
-I graduated from SAIS in May 2019 with an M.A. in conflict management and economics. While completing my researcher position, I’m currently looking for new opportunities in business development, strategy, or operations that allow me to combine my strong problem-solving skills with my deep passion for technology.
-
-One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS](https://capsseminar.github.io/), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
+I graduated from SAIS in May 2019 with an M.A. in conflict management and economics. One of my steepest learning curves at Johns Hopkins was developing and teaching an accredited professional development course, [CAPS](https://capsseminar.github.io/), to help international relations students tackle AI. The course was developed over two years and taught for four semesters. 
 
 While a student at SAIS, I spent most of my time building a [peer-to-peer education platform](https://saiss2stechnology.com/) to help students access each other’s knowledge on topics not covered in the school’s official curriculum. We focused mainly on topics in technology policy.
 
-In my spare time, I enjoy writing, meeting people, and improving my running skills.
-
+In my spare time, I enjoy cycling and watching StarCraft II e-sports.
